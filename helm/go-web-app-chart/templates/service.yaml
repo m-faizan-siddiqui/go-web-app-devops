@@ -5,7 +5,7 @@ metadata:
   name: go-web-app
 
 spec: 
-  type: NodedPort
+  type: NodePort
   
   selector:
     app: go-web-app
